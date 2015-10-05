@@ -1,3 +1,5 @@
 You are in a room with three doors.
 
 Which door will you go through?
+
+You choose to go down the door with the yellow brick.
