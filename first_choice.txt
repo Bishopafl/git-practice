@@ -1,0 +1,3 @@
+This is the output of git diff.
+
+You choose to go down the door with the yellow brick.
